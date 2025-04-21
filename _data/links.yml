@@ -5,11 +5,11 @@ buttons:
     items:
     - title: ManaPua on Kick
       url: https://kick.com/manapuagames
-      icon: tdesign:camera # Icons are optional
+      icon: tdesign:letters-k # Icons are optional
 
     - title: ManaPua on BlueSky
       url: https://www.youtube.com/@manapuagaming4390
-      icon: tdesign:rainbow # Icons are optional
+      icon: tdesign:cloudy-sunny # Icons are optional
 
     - title: Divest From Twitch
       url: https://streetcatlove.github.io/hellostreetcat/divest
