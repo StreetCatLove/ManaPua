@@ -1,11 +1,6 @@
-- name: instagram
-  url: https://www.instagram.com/hello.street.cat
-  icon: ri:instagram-fill
-  color: '#E4405F'
-
-- name: x
-  url: https://x.com/street_cat_love
-  icon: ri:twitter-fill
+- name: kick
+  url: https://kick.com/manapuagames
+  icon: tdesign:live
   color: '#53FC18'
 
 - name: bsky
@@ -14,16 +9,11 @@
   color: '#1D9BF0'
 
 - name: youtube
-  url: https://www.youtube.com/@Street_Cat_Love
+  url: https://www.youtube.com/@manapuagaming4390
   icon: ri:youtube-fill
   color: '#FF0000'
 
-- name: youtube
-  url: https://www.youtube.com/@Street_Cat_Lore
-  icon: ri:youtube-fill
-  color: '#03ABF4'
-
-- name: tiktok
-  url: https://www.tiktok.com/@streetcatlove
-  icon: ri:tiktok-fill
-  color: '#FECDEA'
+- name: x
+  url: https://x.com/ManapuaOfficial
+  icon: ri:twitter-fill
+  color: '#53FC18'
