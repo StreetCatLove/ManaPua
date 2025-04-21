@@ -1,6 +1,6 @@
 - name: kick
   url: https://kick.com/manapuagames
-  icon: tdesign:live
+  icon: ri:live
   color: '#53FC18'
 
 - name: bsky
