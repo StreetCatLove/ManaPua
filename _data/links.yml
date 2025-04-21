@@ -8,10 +8,13 @@ buttons:
       icon: tdesign:letters-k # Icons are optional
 
     - title: ManaPua on BlueSky
-      url: https://www.youtube.com/@manapuagaming4390
+      url: https://bsky.app/profile/manapuaofficial.bsky.social
       icon: tdesign:cloudy-sunny # Icons are optional
+
+    - title: ManaPua on Youtube
+      url: https://youtube.com/@manapuaofficial
+      icon: tdesign:film # Icons are optional
 
     - title: Divest From Twitch
       url: https://streetcatlove.github.io/hellostreetcat/divest
       icon: tdesign:chat-message # Icons are optional
-    
