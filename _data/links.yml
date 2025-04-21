@@ -3,11 +3,11 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
-    - title: ManaPua Kick
+    - title: ManaPua on Kick
       url: https://kick.com/manapuagames
       icon: tdesign:camera # Icons are optional
 
-    - title: ManaPua Youtube
+    - title: ManaPua on BlueSky
       url: https://www.youtube.com/@manapuagaming4390
       icon: tdesign:rainbow # Icons are optional
 
